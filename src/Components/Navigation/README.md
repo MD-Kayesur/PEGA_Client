@@ -26,8 +26,10 @@ src/
   public/
     menue.json
 
+``
 
-### প্রয়োজনীয় প্যাকেজ
+## প্রয়োজনীয় প্যাকেজ
+
 React Router DOM (রাউটিংয়ের জন্য)
 
 React Icons (আইকনের জন্য)
@@ -36,7 +38,7 @@ Tailwind CSS (স্টাইলিংয়ের জন্য)
 
 ইন্সটলেশন:
  
-bash ``` npm install react-router-dom react-icons ```
+bash ``` npm install react-router-dom react-icons ``
 
 
 
